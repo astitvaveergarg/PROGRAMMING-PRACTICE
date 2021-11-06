@@ -1,4 +1,4 @@
-num = int(input("please give a number : "))
+num = int(input("Please Give A Number : "))
 while(num>0):
     j=num%10
     if j!=0 and j!=1:
